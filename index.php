@@ -1,13 +1,7 @@
 <?php
 
-
-$name="Shikut";
-
-if($name=="Prottoy"){
-    echo ("Hellow ".$name );
-
-}else{
-    echo("Hi There ");
+for($i=1; $i<=10; $i++){
+    echo($i."<br/> ");
 }
 
 ?>

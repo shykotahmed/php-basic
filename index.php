@@ -1,13 +1,13 @@
 <?php
 
 
-$balance=80.00;
+$name="Shikut";
 
-if($balance>=100){
-    echo("You have enough balance!");
-} else{
-    echo("Insufficient balance!!!");
+if($name=="Prottoy"){
+    echo ("Hellow ".$name );
+
+}else{
+    echo("Hi There ");
 }
-
 
 ?>

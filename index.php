@@ -1,19 +1,11 @@
 <?php
 
-echo("Hello World <br/>");
-echo("Hello World <br/>");
-echo("Hello World");
+$name="Shikut";
+$from="Prottoy";
 
-
-
-echo "<ul>
-
-<li>
-Shikut
-</li>
-
-</ul>";
-
+echo("Hello ".$name." from ".$from."<br/>");
+echo("Hello ".$name." from ".$from."<br/>");
+echo("Hello ".$name." from ".$from."<br/>");
 
 
 
